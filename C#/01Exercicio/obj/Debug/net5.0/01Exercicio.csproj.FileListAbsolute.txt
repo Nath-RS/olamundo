@@ -1,0 +1,16 @@
+C:\Cuso C# POO\01Exercicio\bin\Debug\net5.0\01Exercicio.exe
+C:\Cuso C# POO\01Exercicio\bin\Debug\net5.0\01Exercicio.deps.json
+C:\Cuso C# POO\01Exercicio\bin\Debug\net5.0\01Exercicio.runtimeconfig.json
+C:\Cuso C# POO\01Exercicio\bin\Debug\net5.0\01Exercicio.runtimeconfig.dev.json
+C:\Cuso C# POO\01Exercicio\bin\Debug\net5.0\01Exercicio.dll
+C:\Cuso C# POO\01Exercicio\bin\Debug\net5.0\ref\01Exercicio.dll
+C:\Cuso C# POO\01Exercicio\bin\Debug\net5.0\01Exercicio.pdb
+C:\Cuso C# POO\01Exercicio\obj\Debug\net5.0\01Exercicio.csproj.AssemblyReference.cache
+C:\Cuso C# POO\01Exercicio\obj\Debug\net5.0\01Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cuso C# POO\01Exercicio\obj\Debug\net5.0\01Exercicio.AssemblyInfoInputs.cache
+C:\Cuso C# POO\01Exercicio\obj\Debug\net5.0\01Exercicio.AssemblyInfo.cs
+C:\Cuso C# POO\01Exercicio\obj\Debug\net5.0\01Exercicio.csproj.CoreCompileInputs.cache
+C:\Cuso C# POO\01Exercicio\obj\Debug\net5.0\01Exercicio.dll
+C:\Cuso C# POO\01Exercicio\obj\Debug\net5.0\ref\01Exercicio.dll
+C:\Cuso C# POO\01Exercicio\obj\Debug\net5.0\01Exercicio.pdb
+C:\Cuso C# POO\01Exercicio\obj\Debug\net5.0\01Exercicio.genruntimeconfig.cache
