@@ -1,3 +1,3 @@
-# Ola, mundo!
- 
- Aqui estão alguns exercícios que eu fiz ao conhecer algumas sintaxes e paradigmas de linguagens.
+# Web sites
+
+Projetos de sites Utilizando HTML, CSS e Javascript básico
